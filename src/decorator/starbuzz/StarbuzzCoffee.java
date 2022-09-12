@@ -1,12 +1,12 @@
-package decorator;
+package decorator.starbuzz;
 
-import decorator.beverage.Beverage;
-import decorator.beverage.DarkRoast;
-import decorator.beverage.Espresso;
-import decorator.beverage.HouseBlend;
-import decorator.condiment.Mocha;
-import decorator.condiment.Soy;
-import decorator.condiment.Whip;
+import decorator.starbuzz.beverage.Beverage;
+import decorator.starbuzz.beverage.DarkRoast;
+import decorator.starbuzz.beverage.Espresso;
+import decorator.starbuzz.beverage.HouseBlend;
+import decorator.starbuzz.condiment.Mocha;
+import decorator.starbuzz.condiment.Soy;
+import decorator.starbuzz.condiment.Whip;
 
 public class StarbuzzCoffee {
 

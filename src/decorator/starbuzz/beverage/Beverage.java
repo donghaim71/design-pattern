@@ -1,4 +1,4 @@
-package decorator.beverage;
+package decorator.starbuzz.beverage;
 
 public abstract class Beverage {
   String description = "제목 없음";
